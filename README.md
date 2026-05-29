@@ -1,4 +1,4 @@
-# fake-repository-sample
+# in-memory-repository-sample
 
 Demonstrates a fake in-memory repository for testing purposes.
 
